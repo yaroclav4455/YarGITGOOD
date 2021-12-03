@@ -12,6 +12,7 @@ namespace YarGITGOOD
             {
                 Console.WriteLine("U Win!");
                 Console.WriteLine("I Win!");
+                Console.WriteLine("we Win!");
             }
         }
     }
