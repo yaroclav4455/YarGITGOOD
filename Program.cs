@@ -8,9 +8,11 @@ namespace YarGITGOOD
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Haw are u? ");
-            string name = "laboratornay";
-             Console.WriteLine("What are u doing? ");
+           for (int i=0;i<10;i++)
+           {
+          Console.WriteLine("U Win!"); 
             
         }
     }
+}
 }
