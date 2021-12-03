@@ -7,6 +7,9 @@ namespace YarGITGOOD
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Haw are u? ");
+            string name = "laboratornay";
+            
         }
     }
 }
